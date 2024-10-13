@@ -1,5 +1,12 @@
 <?php
 
+/*
+o scritp abaixo impede que o projeto receba chamdas http:
+phpinfo();
+exit;
+*/
+
+
 use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
