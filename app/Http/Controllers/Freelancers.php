@@ -4,8 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class Freelancers extends Controller
-{
+class Freelancers extends Controller{
     /**
      * Handle the incoming request.
      */
